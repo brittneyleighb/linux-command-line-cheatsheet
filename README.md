@@ -1,4 +1,4 @@
-# 🐧 Linux Command Line Cheatsheet for Ethical Hackers (README.md)
+# 🐧 Linux Command Line Cheatsheet for Ethical Hackers
 
 > *Hello, friend. This is the API reference you wish came bundled with the OS.*
 
