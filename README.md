@@ -1,4 +1,4 @@
-# 🐧 Linux Command Line Cheatsheet for Ethical Hackers (README.md)
+# 🐧 Linux Command Line Cheatsheet for Ethical Hackers
 
 > *A cheatsheet is a map. This one shows you the terrain, and where the trapdoors are buried.*
 
