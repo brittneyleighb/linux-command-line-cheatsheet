@@ -1,7 +1,5 @@
 # 🐧 Linux Command Line Cheatsheet for Ethical Hackers
 
-> *A cheatsheet is a map. This one shows you the terrain, and where the trapdoors are buried.*
-
 A reference for Linux fundamentals with each concept paired to the offensive and defensive security perspective. Know the system, know the holes.
 
 **Mental model:** Linux is a high-rise apartment building. The kernel is the foundation. The filesystem is the floor plan. Users are tenants. Permissions are key cards. Root is the building superintendent, and ethical hackers are the security consultants the owner pays to find every unlocked door before someone else does.
@@ -1121,4 +1119,4 @@ If you can read `ls -l` fluently, you can read an attacker's tracks. If you can 
 
 ---
 
-*Made with ☕ and a healthy paranoia. Test only on systems you own or have written permission to assess.*
+*Made with ☕ and inspo from "Mr. Robot." Test only on systems you own or have written permission to assess.*
