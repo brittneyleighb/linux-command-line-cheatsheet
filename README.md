@@ -4,6 +4,8 @@
 
 A reference for Linux fundamentals with each concept paired to the offensive and defensive security perspective. Know the system, know the holes.
 
+> **Practice boundary:** Run commands only on systems, accounts, files, and networks you own or have explicit written authorization to test. For learning, use a local VM, container, CTF, or deliberately vulnerable lab. Examples explain how systems work; they are not a substitute for a scoped security engagement.
+
 **Mental model:** Linux is a multiplayer game server running 24/7. The kernel is the game engine, handling physics and tick rate. The filesystem is the persistent world state on disk. Processes are active player sessions. Users are accounts on the leaderboard. Permissions are the ACL on every zone, chest, and NPC. Root is the GM with `/noclip`, `/op`, and a kick button. Ethical hackers are the QA team the studio pays to break the game before the speedrunners do.
 
 ---
