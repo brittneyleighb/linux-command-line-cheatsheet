@@ -8,6 +8,12 @@ A reference for Linux fundamentals with each concept paired to the offensive and
 
 **Mental model:** Linux is a multiplayer game server running 24/7. The kernel is the game engine, handling physics and tick rate. The filesystem is the persistent world state on disk. Processes are active player sessions. Users are accounts on the leaderboard. Permissions are the ACL on every zone, chest, and NPC. Root is the GM with `/noclip`, `/op`, and a kick button. Ethical hackers are the QA team the studio pays to break the game before the speedrunners do.
 
+## Start here: Linux is a running system
+
+Start with the system before the commands: **files and permissions** explain what you can access; **processes and services** explain what is running; **networking** explains how the machine communicates; **privilege boundaries** explain what needs authorization.
+
+For a first pass: files → permissions → processes → networking → scripting. Treat the security material as a way to understand and defend systems you are authorized to inspect.
+
 ---
 
 ## 📑 Table of Contents
