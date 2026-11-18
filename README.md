@@ -16,6 +16,14 @@ For a first pass: files → permissions → processes → networking → scripti
 
 ---
 
+## Try it safely
+
+**Predict:** what should happen before you act.  
+**Try:** use a local, reversible example.  
+**Explain:** describe the result in your own words.
+
+In a local VM or directory you own, create a text file, inspect it with `ls -l`, then change only its permissions with `chmod`. Predict which actions still work before testing them. Use a harmless file, never a system path.
+
 ## 📑 Table of Contents
 
 1. [Reading Files & Understanding Permissions](#1-reading-files--understanding-permissions)
